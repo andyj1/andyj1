@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <!--
 <br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andyj1&layout=compact)
--->
 <br />
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=andyj1.count_visitors)
+-->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=andyj1.count_visitors)
